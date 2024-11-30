@@ -1,0 +1,7 @@
+torch
+FlagEmbedding
+pytest
+transformers
+langchain
+langchain_community
+accelerate
